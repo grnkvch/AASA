@@ -1,0 +1,8 @@
+# a path:
+/.well-known/apple-app-site-association
+  # headers for that path:
+  Content-Type: application/octet-stream
+# another path:
+/apple-app-site-association
+  # headers for that path:
+  Content-Type: application/octet-stream
